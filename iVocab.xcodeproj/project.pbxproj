@@ -21,6 +21,20 @@
 		1C38E20E1902972700AD9880 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C38E1F01902972700AD9880 /* UIKit.framework */; };
 		1C38E2161902972700AD9880 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1C38E2141902972700AD9880 /* InfoPlist.strings */; };
 		1C38E2181902972700AD9880 /* iVocabTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C38E2171902972700AD9880 /* iVocabTests.m */; };
+		1C38E2231902974200AD9880 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C38E2221902974200AD9880 /* Game.m */; };
+		1C38E2261902979300AD9880 /* Weeks.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C38E2251902979300AD9880 /* Weeks.m */; };
+		1C38E22B190297E200AD9880 /* DSC01943.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 1C38E227190297E200AD9880 /* DSC01943.JPG */; };
+		1C38E22C190297E200AD9880 /* gameover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C38E228190297E200AD9880 /* gameover.jpg */; };
+		1C38E22D190297E200AD9880 /* right.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C38E229190297E200AD9880 /* right.jpg */; };
+		1C38E22E190297E200AD9880 /* wrong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C38E22A190297E200AD9880 /* wrong.jpg */; };
+		1C38E2311902E85200AD9880 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C38E2301902E85200AD9880 /* Home.m */; };
+		1CA621921902FF06005A06C4 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CA621911902FF06005A06C4 /* Background.png */; };
+		1CA621941903003E005A06C4 /* Background-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CA621931903003E005A06C4 /* Background-2.png */; };
+		1CA62196190301A0005A06C4 /* Background-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CA62195190301A0005A06C4 /* Background-3.png */; };
+		1CA62198190304F1005A06C4 /* Background-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CA62197190304F1005A06C4 /* Background-4.png */; };
+		1CE98A671915FD4300B5D301 /* GOT.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE98A661915FD4300B5D301 /* GOT.mp3 */; };
+		1CE98A69191603F800B5D301 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CE98A68191603F800B5D301 /* AVFoundation.framework */; };
+		1CE98A6B1916060A00B5D301 /* foreword.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CE98A6A1916060A00B5D301 /* foreword.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +67,24 @@
 		1C38E2131902972700AD9880 /* iVocabTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iVocabTests-Info.plist"; sourceTree = "<group>"; };
 		1C38E2151902972700AD9880 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1C38E2171902972700AD9880 /* iVocabTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iVocabTests.m; sourceTree = "<group>"; };
+		1C38E2211902974200AD9880 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		1C38E2221902974200AD9880 /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game.m; sourceTree = "<group>"; };
+		1C38E2241902979300AD9880 /* Weeks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Weeks.h; sourceTree = "<group>"; };
+		1C38E2251902979300AD9880 /* Weeks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Weeks.m; sourceTree = "<group>"; };
+		1C38E227190297E200AD9880 /* DSC01943.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC01943.JPG; sourceTree = "<group>"; };
+		1C38E228190297E200AD9880 /* gameover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gameover.jpg; sourceTree = "<group>"; };
+		1C38E229190297E200AD9880 /* right.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = right.jpg; sourceTree = "<group>"; };
+		1C38E22A190297E200AD9880 /* wrong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wrong.jpg; sourceTree = "<group>"; };
+		1C38E22F1902E85200AD9880 /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		1C38E2301902E85200AD9880 /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
+		1CA621911902FF06005A06C4 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		1CA621931903003E005A06C4 /* Background-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background-2.png"; sourceTree = "<group>"; };
+		1CA62195190301A0005A06C4 /* Background-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background-3.png"; sourceTree = "<group>"; };
+		1CA62197190304F1005A06C4 /* Background-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Background-4.png"; path = "../../../../../Desktop/Temp Xcode/iVocab/Background-4.png"; sourceTree = "<group>"; };
+		1CE98A641915F9B900B5D301 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		1CE98A661915FD4300B5D301 /* GOT.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = GOT.mp3; sourceTree = "<group>"; };
+		1CE98A68191603F800B5D301 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		1CE98A6A1916060A00B5D301 /* foreword.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = foreword.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CE98A69191603F800B5D301 /* AVFoundation.framework in Frameworks */,
 				1C38E1EF1902972700AD9880 /* CoreGraphics.framework in Frameworks */,
 				1C38E1F11902972700AD9880 /* UIKit.framework in Frameworks */,
 				1C38E1ED1902972700AD9880 /* Foundation.framework in Frameworks */,
@@ -101,6 +134,8 @@
 		1C38E1EB1902972700AD9880 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1CE98A68191603F800B5D301 /* AVFoundation.framework */,
+				1CE98A641915F9B900B5D301 /* AudioToolbox.framework */,
 				1C38E1EC1902972700AD9880 /* Foundation.framework */,
 				1C38E1EE1902972700AD9880 /* CoreGraphics.framework */,
 				1C38E1F01902972700AD9880 /* UIKit.framework */,
@@ -114,9 +149,15 @@
 			children = (
 				1C38E1FB1902972700AD9880 /* AppDelegate.h */,
 				1C38E1FC1902972700AD9880 /* AppDelegate.m */,
+				1C38E2211902974200AD9880 /* Game.h */,
+				1C38E2221902974200AD9880 /* Game.m */,
+				1C38E22F1902E85200AD9880 /* Home.h */,
+				1C38E2301902E85200AD9880 /* Home.m */,
 				1C38E1FE1902972700AD9880 /* Main.storyboard */,
 				1C38E2011902972700AD9880 /* ViewController.h */,
 				1C38E2021902972700AD9880 /* ViewController.m */,
+				1C38E2241902979300AD9880 /* Weeks.h */,
+				1C38E2251902979300AD9880 /* Weeks.m */,
 				1C38E2041902972700AD9880 /* Images.xcassets */,
 				1C38E1F31902972700AD9880 /* Supporting Files */,
 			);
@@ -126,6 +167,16 @@
 		1C38E1F31902972700AD9880 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1CE98A6A1916060A00B5D301 /* foreword.mp3 */,
+				1CE98A661915FD4300B5D301 /* GOT.mp3 */,
+				1CA62197190304F1005A06C4 /* Background-4.png */,
+				1CA62195190301A0005A06C4 /* Background-3.png */,
+				1CA621931903003E005A06C4 /* Background-2.png */,
+				1CA621911902FF06005A06C4 /* Background.png */,
+				1C38E227190297E200AD9880 /* DSC01943.JPG */,
+				1C38E228190297E200AD9880 /* gameover.jpg */,
+				1C38E229190297E200AD9880 /* right.jpg */,
+				1C38E22A190297E200AD9880 /* wrong.jpg */,
 				1C38E1F41902972700AD9880 /* iVocab-Info.plist */,
 				1C38E1F51902972700AD9880 /* InfoPlist.strings */,
 				1C38E1F81902972700AD9880 /* main.m */,
@@ -228,8 +279,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CA621941903003E005A06C4 /* Background-2.png in Resources */,
+				1C38E22D190297E200AD9880 /* right.jpg in Resources */,
+				1CA621921902FF06005A06C4 /* Background.png in Resources */,
+				1CE98A671915FD4300B5D301 /* GOT.mp3 in Resources */,
+				1CA62196190301A0005A06C4 /* Background-3.png in Resources */,
 				1C38E2051902972700AD9880 /* Images.xcassets in Resources */,
+				1C38E22C190297E200AD9880 /* gameover.jpg in Resources */,
 				1C38E1F71902972700AD9880 /* InfoPlist.strings in Resources */,
+				1C38E22B190297E200AD9880 /* DSC01943.JPG in Resources */,
+				1CE98A6B1916060A00B5D301 /* foreword.mp3 in Resources */,
+				1CA62198190304F1005A06C4 /* Background-4.png in Resources */,
+				1C38E22E190297E200AD9880 /* wrong.jpg in Resources */,
 				1C38E2001902972700AD9880 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,7 +312,10 @@
 			files = (
 				1C38E2031902972700AD9880 /* ViewController.m in Sources */,
 				1C38E1FD1902972700AD9880 /* AppDelegate.m in Sources */,
+				1C38E2311902E85200AD9880 /* Home.m in Sources */,
+				1C38E2261902979300AD9880 /* Weeks.m in Sources */,
 				1C38E1F91902972700AD9880 /* main.m in Sources */,
+				1C38E2231902974200AD9880 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +520,7 @@
 				1C38E21D1902972700AD9880 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C38E21E1902972700AD9880 /* Build configuration list for PBXNativeTarget "iVocabTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +529,7 @@
 				1C38E2201902972700AD9880 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
